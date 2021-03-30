@@ -1,0 +1,1 @@
+protoc proto/add.proto --dart_out=dart_add_grpc/ --plugin=protoc-gen-dart=C:\Users\SergiiShelpuk\AppData\Local\Pub\Cache\bin\protoc-gen-dart.bat
